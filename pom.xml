@@ -14,7 +14,7 @@
 	<name>todolist</name>
 	<description>Proyecto sobre un ToDoList, podras Crear, Leer, Actualizar y Eliminar las tareas que ingreses.</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
